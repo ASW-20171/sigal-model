@@ -1,2 +1,2 @@
-tocTab[tocTab.length] = new Array("1.9:1", "", "Interfaz de usuario", "EARoot/EA1/EA9/EA103.htm", "188.png", "16", "0", "", "Custom diagram0","{EA3EEBE2-7C2B-4b59-971D-5C568F72CDCA}");
-tocTab[tocTab.length] = new Array("1.9:2", "", "Pantalla1", "EARoot/EA1/EA9/EA106.htm", "11.png", "57", "0", "", "Screen0","{5006EAEF-D841-497b-9A51-876681BF1C2D}");
+tocTab[tocTab.length] = new Array("1.8:1", "", "Interfaz de usuario", "EARoot/EA1/EA8/EA115.htm", "188.png", "16", "0", "", "Custom diagram0","{EA3EEBE2-7C2B-4b59-971D-5C568F72CDCA}");
+tocTab[tocTab.length] = new Array("1.8:2", "", "Pantalla1", "EARoot/EA1/EA8/EA118.htm", "11.png", "57", "0", "", "Screen0","{5006EAEF-D841-497b-9A51-876681BF1C2D}");
