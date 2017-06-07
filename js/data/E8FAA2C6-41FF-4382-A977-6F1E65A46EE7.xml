@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("1.8:1", "", "Requisitos", "EARoot/EA1/EA8/EA92.htm", "188.png", "13", "0", "", "Custom diagram0","{D58F45FD-E85F-4b3c-8BA4-6D01B033F4D8}");
-tocTab[tocTab.length] = new Array("1.8.1", "1", "Requisitos funcionales", "EARoot/EA1/EA8/EA96.htm", "4.png", "", "", "{A4EB28B5-7BAA-46c9-AD0F-010C6B17655E}", "Package");
-tocTab[tocTab.length] = new Array("1.8.2", "1", "Requisitos no funcionales", "EARoot/EA1/EA8/EA97.htm", "4.png", "", "", "{42B1797E-91CF-4d72-989D-A0D496927F24}", "Package");
+tocTab[tocTab.length] = new Array("1.7:1", "", "Requisitos", "EARoot/EA1/EA7/EA104.htm", "188.png", "13", "0", "", "Custom diagram0","{D58F45FD-E85F-4b3c-8BA4-6D01B033F4D8}");
+tocTab[tocTab.length] = new Array("1.7.1", "1", "Requisitos funcionales", "EARoot/EA1/EA7/EA108.htm", "4.png", "", "", "{A4EB28B5-7BAA-46c9-AD0F-010C6B17655E}", "Package");
+tocTab[tocTab.length] = new Array("1.7.2", "1", "Requisitos no funcionales", "EARoot/EA1/EA7/EA109.htm", "4.png", "", "", "{42B1797E-91CF-4d72-989D-A0D496927F24}", "Package");
